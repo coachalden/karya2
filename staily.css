@@ -1,0 +1,15 @@
+.jumbotron{
+
+  background:linear-gradient( #ffcd8c , #ffae00);
+  padding-top: 7rem;
+} 
+#about {
+  background:linear-gradient(  #ffae00, #ffcd8c);
+padding-bottom: 5rem;
+}
+#projeck{
+  background:linear-gradient(  #ffcd8c, #0084ff);
+  padding-top:8rem;
+  padding-bottom: 5rem;
+
+}
